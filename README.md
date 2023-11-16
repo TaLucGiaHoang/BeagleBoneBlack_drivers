@@ -1,5 +1,5 @@
-# Drivers of Beagle Bone Black board
-You can get these drivers after connecting a Beagle Bone Black board to your PC/laptop by USB cable. This repository is just a backup download link
+# Download Drivers of Beagle Bone Black board
+You can get these drivers after connecting a Beagle Bone Black board to your PC/laptop by USB cable. This repository is just a backup download.
 
 With the latest images, _it should no longer be necessary to install drivers_ for your operating system to give you network-over-USB access to your Beagle. In case you are running an older image, an older operating system or need additional drivers for serial access to older boards, download the old drivers in `/Drivers` folder.
 
